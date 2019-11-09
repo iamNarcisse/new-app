@@ -675,10 +675,10 @@ header .logo a {
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
-	/* width: 114px; */
-	/* height: 66px; */
-	/* background: url("../images/logoK@2x.png") no-repeat center; */
-	/* background-size: 61px 14px; */
+	width: 114px;
+	height: 66px;
+	/* background: url("../images/logo.png") no-repeat center; */
+	background-size: 61px 14px;
 }
 
 /* header social */
@@ -746,7 +746,7 @@ header .header-social li a:hover {
 /* nav-wrap */
 #nav-wrap {
 	font: 13px "raleway-heavy", sans-serif;
-	/* text-transform: uppercase; */
+	text-transform: uppercase;
 	letter-spacing: 1.5px;
 	float: left;  
 }
